@@ -1,0 +1,19 @@
+{
+  "name": "drumkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel index.js > app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepnij90/drumkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepnij90/drumkit/issues"
+  },
+  "homepage": "https://github.com/sandeepnij90/drumkit#readme"
+}
